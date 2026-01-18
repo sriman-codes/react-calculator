@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React Calculator
 
 A simple and responsive calculator application built using *React* and *Tailwind CSS*.
